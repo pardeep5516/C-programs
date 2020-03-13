@@ -1,0 +1,9 @@
+<?xml version="1.0", encoding = "UTF-8"?>
+<Advertisement>
+    <Ad>
+        <ImageUlr>images\\angle.png</ImageUlr>
+        <NavigationUlr>www.google.com</NavigationUlr>
+        <Impression>20</Impression>
+        <AlternativeText>angle image</AlternativeText>
+    </Ad?
+</Advertisement>
